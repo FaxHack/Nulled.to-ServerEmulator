@@ -1,0 +1,16 @@
+C:\Users\Billy Sharp\Desktop\ReverseLabs Projects\Crackedio-ServerEmulator\CrackedIOServerEmulator\bin\Debug\net7.0\CrackedIOServerEmulator.exe
+C:\Users\Billy Sharp\Desktop\ReverseLabs Projects\Crackedio-ServerEmulator\CrackedIOServerEmulator\bin\Debug\net7.0\CrackedIOServerEmulator.deps.json
+C:\Users\Billy Sharp\Desktop\ReverseLabs Projects\Crackedio-ServerEmulator\CrackedIOServerEmulator\bin\Debug\net7.0\CrackedIOServerEmulator.runtimeconfig.json
+C:\Users\Billy Sharp\Desktop\ReverseLabs Projects\Crackedio-ServerEmulator\CrackedIOServerEmulator\bin\Debug\net7.0\CrackedIOServerEmulator.dll
+C:\Users\Billy Sharp\Desktop\ReverseLabs Projects\Crackedio-ServerEmulator\CrackedIOServerEmulator\bin\Debug\net7.0\CrackedIOServerEmulator.pdb
+C:\Users\Billy Sharp\Desktop\ReverseLabs Projects\Crackedio-ServerEmulator\CrackedIOServerEmulator\obj\Debug\net7.0\CrackedIOServerEmulator.csproj.AssemblyReference.cache
+C:\Users\Billy Sharp\Desktop\ReverseLabs Projects\Crackedio-ServerEmulator\CrackedIOServerEmulator\obj\Debug\net7.0\CrackedIOServerEmulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Billy Sharp\Desktop\ReverseLabs Projects\Crackedio-ServerEmulator\CrackedIOServerEmulator\obj\Debug\net7.0\CrackedIOServerEmulator.AssemblyInfoInputs.cache
+C:\Users\Billy Sharp\Desktop\ReverseLabs Projects\Crackedio-ServerEmulator\CrackedIOServerEmulator\obj\Debug\net7.0\CrackedIOServerEmulator.AssemblyInfo.cs
+C:\Users\Billy Sharp\Desktop\ReverseLabs Projects\Crackedio-ServerEmulator\CrackedIOServerEmulator\obj\Debug\net7.0\CrackedIOServerEmulator.csproj.CoreCompileInputs.cache
+C:\Users\Billy Sharp\Desktop\ReverseLabs Projects\Crackedio-ServerEmulator\CrackedIOServerEmulator\obj\Debug\net7.0\CrackedIOServerEmulator.csproj.Fody.CopyLocal.cache
+C:\Users\Billy Sharp\Desktop\ReverseLabs Projects\Crackedio-ServerEmulator\CrackedIOServerEmulator\obj\Debug\net7.0\CrackedIOServerEmulator.dll
+C:\Users\Billy Sharp\Desktop\ReverseLabs Projects\Crackedio-ServerEmulator\CrackedIOServerEmulator\obj\Debug\net7.0\refint\CrackedIOServerEmulator.dll
+C:\Users\Billy Sharp\Desktop\ReverseLabs Projects\Crackedio-ServerEmulator\CrackedIOServerEmulator\obj\Debug\net7.0\CrackedIOServerEmulator.pdb
+C:\Users\Billy Sharp\Desktop\ReverseLabs Projects\Crackedio-ServerEmulator\CrackedIOServerEmulator\obj\Debug\net7.0\CrackedIOServerEmulator.genruntimeconfig.cache
+C:\Users\Billy Sharp\Desktop\ReverseLabs Projects\Crackedio-ServerEmulator\CrackedIOServerEmulator\obj\Debug\net7.0\ref\CrackedIOServerEmulator.dll
