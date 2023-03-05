@@ -8,7 +8,7 @@ It starts a HTTPS Server, using NetCoreServer, after it modifies Hosts File, in 
 
 ![image](https://i.imgur.com/FXHBOsU.png)
 
-It generates valid response, with random credentials. It also uses Max Rank possible, Supreme (Worth 60 $).
+It generates valid response, with random credentials. It also uses Max Rank possible, Aqua+ (Worth 60 $).
 
 # IS THAT A BYPASS?
 
